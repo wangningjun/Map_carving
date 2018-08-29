@@ -1,4 +1,5 @@
 # Map_carving
 Map longitude and latitude carving
-input： Map rectangular diagonal coordinates
-output： The coordinates file after cutting
+
+1.input： Map rectangular diagonal coordinates
+2.output： The coordinates file after cutting
